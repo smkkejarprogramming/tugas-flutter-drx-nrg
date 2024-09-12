@@ -10,7 +10,7 @@ class LoginPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Jokowi Jelek',
+        title: 'Jokowi Ganteng App',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
